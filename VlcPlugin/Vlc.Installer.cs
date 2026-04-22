@@ -1,5 +1,7 @@
-﻿namespace Loupedeck.VlcPlugin
+﻿
+namespace Loupedeck.VlcPlugin
 {
+    
     using System;
     using System.IO;
 
